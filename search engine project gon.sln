@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchEngine.Ui", "SearchEngine.Ui.csproj", "{70ED4749-0DBE-4FDC-830E-FAB771CA96B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchEngine.BL", "SearchEngine.BL\SearchEngine.BL.csproj", "{97A7D9FD-C122-4405-ADA4-2EC378609BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70ED4749-0DBE-4FDC-830E-FAB771CA96B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70ED4749-0DBE-4FDC-830E-FAB771CA96B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70ED4749-0DBE-4FDC-830E-FAB771CA96B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70ED4749-0DBE-4FDC-830E-FAB771CA96B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A7D9FD-C122-4405-ADA4-2EC378609BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A7D9FD-C122-4405-ADA4-2EC378609BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A7D9FD-C122-4405-ADA4-2EC378609BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A7D9FD-C122-4405-ADA4-2EC378609BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6304EACA-EEA5-4BF4-BFD0-B047A6FC3CDD}
+	EndGlobalSection
+EndGlobal
